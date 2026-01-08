@@ -1,0 +1,12 @@
+openvpn_tcp:L L S S S S S S S I R R R R R R R R R R R R R R R R R R R R R R
+openvpn_udp:S S S S S S S I R R R R R R R R R R R R R R R R R R R R R R R R
+xor_openvpn_tcp:L L S R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
+xor_openvpn_udp:S R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
+wireguard_udp:S S S S S S S S I S S S S S S S R R R R R R R R R R R R R R R R
+wireguard_tcp:L L S S S S S S S S I S S S S S S S R R R R R R R R R R R R R R
+astrill_wireguard:S S S S S S S S U S S S S S S S R R R R R R R R R R R R R R R R
+ipsec:S S S S S S S I R R R R R R R R R R R R R R R R R R R R R R R R
+lightway_udp:S S S S S S S S S S S S S S S S S R R L L R R R R R R R R R R R
+openconnect:S S S S S S S S S S I L L S S S S S S S I R R R R R R R R R R R
+#tls_encapsulation:S S S L L R R R R R R R R R R R R R R R R R R R R R R R R R R R
+#fully_encrypted:R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
