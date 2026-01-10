@@ -33,7 +33,7 @@ S S S S S S S I R R R R R R R R R R R R R R R R
 
 You can identify the VPN protocol by comparing these inferred specifications against the pre-built VPN protocol database. A sample database is available at ./field_specification_db/vpn.txt
 
-## Tips & Notes
+## Tips & Tools
 
 <details>
 <summary>Click to expand additional tips and tools</summary>
