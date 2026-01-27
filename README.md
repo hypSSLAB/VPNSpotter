@@ -1,7 +1,7 @@
 # VPNSpotter
-VPNSpotter is a lightweight VPN protocol identification tool that does not rely on AI.
+VPNSpotter is a lightweight VPN fingerprinting tool that does not rely on AI.
 
-It is based on the paper, "Practical VPN Fingerprinting using Coarse Inference of Field Specifications in Data Channels". 
+It is based on the paper, "Practical VPN Fingerprinting using Coarse Inference of Field Specifications in Data Channels", accepted by INFOCOM 2026. 
 
 ## Environment & Setup
 VPNSpotter has been built and tested on Ubuntu 22.04.
